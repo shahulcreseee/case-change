@@ -1,0 +1,30 @@
+{
+    "name": "case-change",
+    "version": "1.0.0",
+    "description": "Change the value to the lower or upper or kebab or camel or snake or title Case.",
+    "main": "index.js",
+    "keywords": [
+        "lowercase",
+        "lower-case",
+        "uppercase",
+        "upper-case",
+        "kebabcase",
+        "kebab-case",
+        "camelcase",
+        "camel-case",
+        "snakecase",
+        "snake-case",
+        "titlecase",
+        "title-case",
+        "case-change",
+        "case change",
+        "change case",
+        "case-change",
+        "object"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Shahul Hameed Buhari",
+    "license": "MIT"
+}
