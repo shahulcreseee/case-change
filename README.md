@@ -11,7 +11,7 @@ npm install case-change --save
 ## Usage
 
 ```js
-import { Lower, Upper, Camel, Kebab, Snake, Title } from "case-change";
+const { Lower, Upper, Camel, Kebab, Snake, Title } = require('case-change');
 ```
 
 #### [lowercase]
