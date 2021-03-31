@@ -1,17 +1,17 @@
-# Case Change
+# Case Changes
 
 > Convert String in  Object,Array or Plain String to  `lowercase`, `UPPERCASE`, `camelCase`, `Kebab-Case`, `snake_case`, `Ṭitle Case`.
 
 ## Installation
 
 ```
-npm install case-change --save
+npm install case-changes --save
 ```
 
 ## Usage
 
 ```js
-const { Lower, Upper, Camel, Kebab, Snake, Title } = require('case-change');
+const { Lower, Upper, Camel, Kebab, Snake, Title } = require('case-changes');
 ```
 
 #### [lowercase]

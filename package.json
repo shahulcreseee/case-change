@@ -1,5 +1,5 @@
 {
-    "name": "case-change",
+    "name": "case-changes",
     "version": "1.0.0",
     "description": "Change the value to the lower or upper or kebab or camel or snake or title Case.",
     "main": "index.js",
@@ -20,6 +20,7 @@
         "case change",
         "change case",
         "case-change",
+        "case-changes",
         "object"
     ],
     "scripts": {
