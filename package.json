@@ -1,6 +1,6 @@
 {
     "name": "case-changes",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Change the value to the lower or upper or kebab or camel or snake or title Case.",
     "main": "index.js",
     "keywords": [
